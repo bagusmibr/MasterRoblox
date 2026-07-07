@@ -4,15 +4,6 @@ Hybrid **Obby Escape × Escape Room** untuk Roblox. Versi **1.1** (tanpa monetis
 
 Folder ini berisi metadata master data. Dokumen naratif lengkapnya ada di Google Docs (tautan di bawah), dan seluruh datanya juga tersedia terstruktur di `metadata.json`.
 
-## Dokumen
-
-| # | Dokumen | Versi | Tautan |
-|---|---------|-------|--------|
-| 1 | PRD — Product Requirement Document | 1.1 | https://docs.google.com/document/d/1oHf-7cF-lBWX90n2EqiwMYKtuNxHo7uK-OCvVz9FEGg/edit |
-| 2 | SRD/TDD — System & Technical | 1.1 | https://docs.google.com/document/d/1N5yZ5rnHK-5Oqmpa_OcPelYNqqimoElvsuAsWvCVnyo/edit |
-| 3 | GDD + Golden Rules | 1.1 | https://docs.google.com/document/d/1_bxmlEJNxo3G8wUZLyXvwKkjQmOSndstHjyri3v90l8/edit |
-| 4 | Map Template + Obstacle Catalog | 1.0 | https://docs.google.com/document/d/1arB6CLPR7xFpCTvYRHVLLGzPq-T9F8Q3e-bXRGxQbJo/edit |
-
 ## Ringkasan Cepat
 
 - **Signature obstacle:** *The Sentinel Gate* (SG-00) — wajib 1 per map, 3 fase (Aktivasi Rune → Baca Petunjuk → Buka Gerbang), mekanik identik di semua map, hanya di-reskin.
