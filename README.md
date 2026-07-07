@@ -1,8 +1,6 @@
 # Master Data — Project ESCAPE
 
-Hybrid **Obby Escape × Escape Room** untuk Roblox. Versi **1.1** (tanpa monetisasi, tanpa PvP, tanpa trading).
-
-Folder ini berisi metadata master data. Dokumen naratif lengkapnya ada di Google Docs (tautan di bawah), dan seluruh datanya juga tersedia terstruktur di `metadata.json`.
+Hybrid gabungan antara **Obby Escape × Escape Room** untuk Roblox. Versi **1.1**
 
 ## Ringkasan Cepat
 
